@@ -1,7 +1,7 @@
 {
   "homepage": "https://ashish1592025.github.io/Mern-Stack-Portfolio",
   "name": "client",
-  "proxy":"http://localhost:8080/",
+  "proxy":"https://mern-portfolio-backend-0anb.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
