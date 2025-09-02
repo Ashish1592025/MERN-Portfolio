@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mern-Stack-Portfolio/static/css/main.55d89e86.css",
+    "main.js": "/Mern-Stack-Portfolio/static/js/main.2fafe0fb.js",
+    "static/js/453.a3c1d153.chunk.js": "/Mern-Stack-Portfolio/static/js/453.a3c1d153.chunk.js",
+    "static/media/image.png": "/Mern-Stack-Portfolio/static/media/image.b6bdf9ffbb96d5d5c29e.png",
+    "static/media/photo.png": "/Mern-Stack-Portfolio/static/media/photo.69800635ffd44a5d23d9.png",
+    "static/media/WeatherApp.png": "/Mern-Stack-Portfolio/static/media/WeatherApp.bc07c4790132c42bc768.png",
+    "static/media/ShoppingCart.png": "/Mern-Stack-Portfolio/static/media/ShoppingCart.0eaecc5b7f55534f556c.png",
+    "static/media/Resume.pdf": "/Mern-Stack-Portfolio/static/media/Resume.c9428a495c8018f2bc6a.pdf",
+    "index.html": "/Mern-Stack-Portfolio/index.html",
+    "main.55d89e86.css.map": "/Mern-Stack-Portfolio/static/css/main.55d89e86.css.map",
+    "main.2fafe0fb.js.map": "/Mern-Stack-Portfolio/static/js/main.2fafe0fb.js.map",
+    "453.a3c1d153.chunk.js.map": "/Mern-Stack-Portfolio/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d89e86.css",
+    "static/js/main.2fafe0fb.js"
+  ]
+}
